@@ -1,0 +1,37 @@
+children-growth-os/
+│
+├── docs/
+│   ├── PROJECT_VISION.md        ⭐ 项目愿景
+│   ├── PRODUCT_PRD.md           产品需求
+│   ├── SYSTEM_ARCHITECTURE.md   系统架构
+│   ├── AI_ARCHITECTURE.md       AI架构
+│   ├── MEMORY_DESIGN.md         Memory设计
+│   ├── AGENT_DESIGN.md          Agent设计
+│   ├── WORLD_DESIGN.md          世界观设计
+│   ├── API.md                   API设计
+│   ├── ROADMAP.md               Roadmap
+│   └── ADR/
+│       ├── ADR001-AI-Native.md
+│       ├── ADR002-Mem0.md
+│       ├── ADR003-LangGraph.md
+│       └── ...
+│
+├── apps/
+│   ├── mobile/
+│   └── admin/
+│
+├── services/
+│   ├── gateway/
+│   ├── agent/
+│   ├── memory/
+│   ├── story/
+│   ├── profile/
+│   └── content/
+│
+├── prompts/
+│
+├── stories/
+│
+├── datasets/
+│
+└── infra/
